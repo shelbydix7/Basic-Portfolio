@@ -1,0 +1,47 @@
+h1 {
+    Color:#fff;
+    display:inline-block;
+    margin:0;
+    padding:10px;
+    background-color:#4aaaa5;
+    font-weight:400;
+}
+
+h2{
+    font-weight:400;
+}
+
+header {
+    width:960px;
+    margin: 0 auto;
+}
+
+nav {
+    float:right;
+    margin-top:16px;
+}
+
+nav a {
+text-decoration: none;
+color:#ccc;
+}
+
+nav a:hover{
+    color:#4aaaa5;
+}
+
+a.portfolio {
+margin:0 10px;
+padding:0 10px;
+border-right:2px solid #ccc;
+border-left:2px solid #ccc;
+}
+
+section {
+    width:960px;
+    margin: 0 auto;
+}
+
+div.wrapper {
+    background-color: #eee;
+}
