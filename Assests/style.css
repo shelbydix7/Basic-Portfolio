@@ -119,6 +119,7 @@ div.Hawaii {
             color:black;
             font-weight:bold;
             font-size:30px;
+            background-color:#4aaaa5;
         }
 
         .container {
@@ -168,7 +169,7 @@ div.Hawaii {
             height: 22px;
         }
 
-        .cellphone {
+        .second {
             position: absolute;
             top: 50%;
             left: 50%;
@@ -178,8 +179,7 @@ div.Hawaii {
             font-size:30px;
         }
 
-       
-
+      
    
         
         
